@@ -106,11 +106,6 @@ This project is simulated using **EDA Playground** ([https://edaplayground.com](
 **Shreelakshmi K R**
 - GitHub: [@shreelakshmiKR](https://github.com/shreelakshmiKR)
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
