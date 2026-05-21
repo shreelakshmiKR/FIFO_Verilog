@@ -1,0 +1,12 @@
+*.vcd
+*.lxt
+*.fst
+*.log
+*.out
+work/
+vivado*/
+.Xil/
+*.jou
+*.str
+simv/
+csrc/
